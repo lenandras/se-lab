@@ -80,11 +80,11 @@ public class GT4500 implements SpaceShip {
         // try to fire both of the torpedo stores
         firingSuccess = true;
         
-
+        //egy sor szerkesztese
         break;
     }
 
     return firingSuccess;
   }
-
+//rebase#2feladathoz
 }
